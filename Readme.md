@@ -4,7 +4,7 @@
 [www.dio.me](https://www.dio.me)
 
 ### Projeto proposto por:
-- Gleyson Sampaio
+- [Gleyson Sampaio](https://github.com/glysns)
 ### Projeto realizado por:
 - [Geraldo Lucas](https://github.com/gllucass)
 
