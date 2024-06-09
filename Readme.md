@@ -6,7 +6,7 @@
 ### Projeto proposto por:
 - Gleyson Sampaio
 ### Projeto realizado por:
-- Geraldo Lucas
+- [Geraldo Lucas](https://github.com/gllucass)
 
 ## Descrição do Desafio
 
